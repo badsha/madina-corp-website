@@ -1,0 +1,6 @@
+{
+  "name": "Novaplast International - Premium PET Flakes & rPET Supplier",
+  "description": "Global industrial manufacturer and exporter of hot-washed PET flakes, food-grade rPET granules, and recycled polymer raw materials.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
